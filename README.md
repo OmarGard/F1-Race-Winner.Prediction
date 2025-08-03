@@ -71,7 +71,7 @@ F1-Race-Winner.Prediction/
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.12.5 or higher
 - pip package manager
 
 ### Installation
@@ -84,8 +84,8 @@ cd F1-Race-Winner.Prediction
 
 2. Create a virtual environment:
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python -m venv .venv
+source .venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 3. Install dependencies:
@@ -139,8 +139,6 @@ print(f"Confidence: {prediction['probability']:.2%}")
 - [ ] Advanced model development
 - [ ] Model evaluation and validation
 - [ ] Web interface for predictions
-- [ ] Real-time prediction updates
-- [ ] Mobile app development
 
 ## 📄 License
 
