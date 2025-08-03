@@ -73,7 +73,12 @@ def get_qualifying_data(year, event_name):
         # Asigna la columna 'BestTime' como el mejor tiempo de clasificación
         if 'BestTime' not in qualifying_df.columns:
             qualifying_df['BestTime'] = qualifying_df[['Q1', 'Q2', 'Q3']].min(axis=1)
-        
+
+        # Create the column 'QualiGapToPole' as the difference between each driver's best time and the pole position time
+        if 'BestTime' in qualifying_df.columns:
+            pole_time = qualifying_df.loc[qualifying_df['Position'] == 1.0, 'BestTime'].iloc[0]
+            qualifying_df['QualiGapToPole'] = qualifying_df['BestTime'] - pole_time
+
         # Ordenar por posición
         qualifying_df = qualifying_df.sort_values('Position').reset_index(drop=True)
         

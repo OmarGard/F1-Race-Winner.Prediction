@@ -1,0 +1,22 @@
+position,positionText,points,wins,driverId,driverNumber,driverCode,driverUrl,givenName,familyName,dateOfBirth,driverNationality,constructorIds,constructorUrls,constructorNames,constructorNationalities
+1,1,216.0,5,piastri,81,PIA,http://en.wikipedia.org/wiki/Oscar_Piastri,Oscar,Piastri,2001-04-06,Australian,['mclaren'],['http://en.wikipedia.org/wiki/McLaren'],['McLaren'],['British']
+2,2,201.0,3,norris,4,NOR,http://en.wikipedia.org/wiki/Lando_Norris,Lando,Norris,1999-11-13,British,['mclaren'],['http://en.wikipedia.org/wiki/McLaren'],['McLaren'],['British']
+3,3,155.0,2,max_verstappen,33,VER,http://en.wikipedia.org/wiki/Max_Verstappen,Max,Verstappen,1997-09-30,Dutch,['red_bull'],['http://en.wikipedia.org/wiki/Red_Bull_Racing'],['Red Bull'],['Austrian']
+4,4,146.0,1,russell,63,RUS,http://en.wikipedia.org/wiki/George_Russell_(racing_driver),George,Russell,1998-02-15,British,['mercedes'],['http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One'],['Mercedes'],['German']
+5,5,119.0,0,leclerc,16,LEC,http://en.wikipedia.org/wiki/Charles_Leclerc,Charles,Leclerc,1997-10-16,Monegasque,['ferrari'],['http://en.wikipedia.org/wiki/Scuderia_Ferrari'],['Ferrari'],['Italian']
+6,6,91.0,0,hamilton,44,HAM,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,1985-01-07,British,['ferrari'],['http://en.wikipedia.org/wiki/Scuderia_Ferrari'],['Ferrari'],['Italian']
+7,7,63.0,0,antonelli,12,ANT,https://en.wikipedia.org/wiki/Andrea_Kimi_Antonelli,Andrea Kimi,Antonelli,2006-08-25,Italian,['mercedes'],['http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One'],['Mercedes'],['German']
+8,8,42.0,0,albon,23,ALB,http://en.wikipedia.org/wiki/Alexander_Albon,Alexander,Albon,1996-03-23,Thai,['williams'],['http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering'],['Williams'],['British']
+9,9,23.0,0,ocon,31,OCO,http://en.wikipedia.org/wiki/Esteban_Ocon,Esteban,Ocon,1996-09-17,French,['haas'],['http://en.wikipedia.org/wiki/Haas_F1_Team'],['Haas F1 Team'],['American']
+10,10,22.0,0,hulkenberg,27,HUL,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,1987-08-19,German,['sauber'],['http://en.wikipedia.org/wiki/Sauber_Motorsport'],['Sauber'],['Swiss']
+11,11,21.0,0,hadjar,6,HAD,https://en.wikipedia.org/wiki/Isack_Hadjar,Isack,Hadjar,2004-09-28,French,['rb'],['http://en.wikipedia.org/wiki/RB_Formula_One_Team'],['RB F1 Team'],['Italian']
+12,12,14.0,0,stroll,18,STR,http://en.wikipedia.org/wiki/Lance_Stroll,Lance,Stroll,1998-10-29,Canadian,['aston_martin'],['http://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One'],['Aston Martin'],['British']
+13,13,14.0,0,alonso,14,ALO,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,1981-07-29,Spanish,['aston_martin'],['http://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One'],['Aston Martin'],['British']
+14,14,13.0,0,sainz,55,SAI,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Carlos,Sainz,1994-09-01,Spanish,['williams'],['http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering'],['Williams'],['British']
+15,15,12.0,0,lawson,30,LAW,http://en.wikipedia.org/wiki/Liam_Lawson,Liam,Lawson,2002-02-11,New Zealander,"['red_bull', 'rb']","['http://en.wikipedia.org/wiki/Red_Bull_Racing', 'http://en.wikipedia.org/wiki/RB_Formula_One_Team']","['Red Bull', 'RB F1 Team']","['Austrian', 'Italian']"
+16,16,11.0,0,gasly,10,GAS,http://en.wikipedia.org/wiki/Pierre_Gasly,Pierre,Gasly,1996-02-07,French,['alpine'],['http://en.wikipedia.org/wiki/Alpine_F1_Team'],['Alpine F1 Team'],['French']
+17,17,10.0,0,tsunoda,22,TSU,http://en.wikipedia.org/wiki/Yuki_Tsunoda,Yuki,Tsunoda,2000-05-11,Japanese,"['rb', 'red_bull']","['http://en.wikipedia.org/wiki/RB_Formula_One_Team', 'http://en.wikipedia.org/wiki/Red_Bull_Racing']","['RB F1 Team', 'Red Bull']","['Italian', 'Austrian']"
+18,18,6.0,0,bearman,87,BEA,http://en.wikipedia.org/wiki/Oliver_Bearman,Oliver,Bearman,2005-05-08,British,['haas'],['http://en.wikipedia.org/wiki/Haas_F1_Team'],['Haas F1 Team'],['American']
+19,19,4.0,0,bortoleto,5,BOR,https://en.wikipedia.org/wiki/Gabriel_Bortoleto,Gabriel,Bortoleto,2004-10-14,Brazilian,['sauber'],['http://en.wikipedia.org/wiki/Sauber_Motorsport'],['Sauber'],['Swiss']
+20,20,0.0,0,colapinto,43,COL,http://en.wikipedia.org/wiki/Franco_Colapinto,Franco,Colapinto,2003-05-27,Argentine,['alpine'],['http://en.wikipedia.org/wiki/Alpine_F1_Team'],['Alpine F1 Team'],['French']
+21,21,0.0,0,doohan,7,DOO,http://en.wikipedia.org/wiki/Jack_Doohan,Jack,Doohan,2003-01-20,Australian,['alpine'],['http://en.wikipedia.org/wiki/Alpine_F1_Team'],['Alpine F1 Team'],['French']
