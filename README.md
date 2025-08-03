@@ -133,7 +133,7 @@ print(f"Confidence: {prediction['probability']:.2%}")
 ## 📋 Roadmap
 
 - [X] Data collection and preprocessing pipeline
-- [ ] Exploratory data analysis
+- [X] Exploratory data analysis
 - [ ] Feature engineering and selection
 - [ ] Baseline model implementation
 - [ ] Advanced model development
