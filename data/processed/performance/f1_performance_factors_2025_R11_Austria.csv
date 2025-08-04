@@ -1,0 +1,28 @@
+Driver,dry_performance_factor,wet_performance_factor,dry_performance_factor_normalized,wet_performance_factor_normalized,dry_races_count,wet_races_count,dry_confidence,wet_confidence,is_rookie,team
+ALB,-0.229,-4.1,48.9,29.5,7,4,High,High,False,Williams
+ALO,-2.457,-0.9,37.7,45.5,7,4,High,High,False,Aston Martin
+ANT,-3.771,11.6,31.1,100.0,7,1,High,Low,False,Mercedes
+BEA,2.686,3.6,63.4,68.0,7,2,High,High,False,Haas F1 Team
+BOR,-0.457,-0.8,47.7,46.0,7,1,High,Low,False,Kick Sauber
+BOT,0.0,1.333,50.0,56.7,0,3,Default,High,False,Unknown
+COL,0.7,-0.8,53.5,46.0,4,1,High,Low,False,Alpine
+DOO,-2.4,-4.0,38.0,30.0,3,1,High,Low,False,Alpine
+GAS,-1.314,3.4,43.4,67.0,7,4,High,High,False,Alpine
+HAD,1.2,-7.2,56.0,14.0,7,1,High,Low,False,Racing Bulls
+HAM,4.057,3.4,70.3,67.0,7,4,High,High,False,Ferrari
+HUL,2.4,3.8,62.0,69.0,7,4,High,High,False,Kick Sauber
+LAW,0.686,-0.2,53.4,49.0,7,2,High,High,False,Racing Bulls
+LEC,3.771,-1.2,68.9,44.0,7,4,High,High,False,Ferrari
+MAG,0.0,2.8,50.0,64.0,0,2,Default,High,False,Unknown
+NOR,1.714,0.8,58.6,54.0,7,4,High,High,False,McLaren
+OCO,2.114,4.8,60.6,74.0,7,4,High,High,False,Haas F1 Team
+PER,0.0,0.533,50.0,52.7,0,3,Default,High,False,Unknown
+PIA,2.171,-0.1,60.9,49.5,7,4,High,High,False,McLaren
+RIC,0.0,0.0,50.0,50.0,0,2,Default,High,False,Unknown
+RUS,1.543,-4.8,57.7,26.0,7,4,High,High,False,Mercedes
+SAI,-0.514,-1.3,47.4,43.5,7,4,High,High,False,Williams
+SAR,0.0,-2.4,50.0,38.0,0,2,Default,High,False,Unknown
+STR,-0.333,1.1,48.3,55.5,6,4,High,High,False,Aston Martin
+TSU,1.086,-3.5,55.4,32.5,7,4,High,High,False,Red Bull Racing
+VER,0.457,6.4,52.3,82.0,7,4,High,High,False,Red Bull Racing
+ZHO,0.0,1.333,50.0,56.7,0,3,Default,High,False,Unknown
